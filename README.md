@@ -54,4 +54,5 @@ Wait for your explicit yes to proceed or no to abort.
 
 🎓 About the Course
 This project was built during a 20-day deep dive into the Model Context Protocol (MCP). From building basic servers to deploying multi-server agents, it covers the entire spectrum of modern AI agent development.
+
 Developed with ❤️ by Hammad Ahmed Awan
