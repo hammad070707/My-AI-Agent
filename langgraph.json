@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+      "agent": "./20_hitl_mcp_agent.py"
+    },
+    "env": ".env"
+  }
